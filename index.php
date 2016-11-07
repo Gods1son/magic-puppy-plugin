@@ -21,7 +21,7 @@ function wporg_shortcodes_init()
 EOT;
         return $content;
     }
-    add_shortcode('wp-plugin', 'wporg_shortcode');
+    add_shortcode('magic-puppy-plugin', 'wporg_shortcode');
 }
 add_action('init', 'wporg_shortcodes_init');
 // bring in external resources
