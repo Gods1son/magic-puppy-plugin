@@ -2,7 +2,7 @@
 
 /*
 
-Plugin Name: wp-plugin
+Plugin Name: Magic Puppy
 
 */
 
